@@ -22,7 +22,9 @@
 - 🌱 Always learning new technologies and improving my skills
 
 ## 🛠️ Tech Stack
-
+<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/in/pamuditha-jayasena-9ab06a384/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7azGPKlOR4SE8w9Q01ZmEA%3D%3D)" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
